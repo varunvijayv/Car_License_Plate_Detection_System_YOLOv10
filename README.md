@@ -124,6 +124,3 @@ The system was evaluated on multiple test images and videos under varying lighti
 └── README.md
 ```
 
-## Conclusion
-
-This system combines YOLOv10 for license plate detection and PaddleOCR for text recognition into a robust, automated pipeline for vehicle identification. It achieves strong accuracy and real-time performance across varied environmental conditions, making it suitable for traffic surveillance, parking management, and automated access control, with SQLite and JSON logging ensuring systematic data storage and retrieval.
